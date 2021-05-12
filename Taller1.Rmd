@@ -1,8 +1,18 @@
 ---
 title: "Geo-Pobla-Soc"
 author: "Josseling Quiroz"
-date: "5/11/2021"
-output: html_document
+date: "11/7/2020"
+output:
+  html_document:
+    theme: readable
+    toc: yes
+    toc_float:
+      collapsed: no
+      smooth_scroll: no
+  word_document:
+    toc: yes
+  pdf_document:
+    toc: yes
 ---
 
 ```{r setup, include=FALSE}
@@ -23,12 +33,12 @@ library(knitr)
 ## Descripción general
 
 TALLER # 1: Manifestaciones espaciales de lo no estrictamente demográfico: la religión, la diversidad, la salud y los nuevos mercados. 
-Revisar práctica 3 y 4 - 
+ 
 Lo no estrictamente demográfico: - Manifestaciones espaciales de: 
 
-- la religión como organizadora de territorio 
+- La religión como organizadora de territorio 
 
-- la diversidad sexual 
+- La diversidad sexual 
 
 - Nuevos mercados relacionados con la estructura poblacional: matrimonios, lo funerario, ciudades de solteros, ancianeidad , países de muejeres, de alta juventud, etc.
 
