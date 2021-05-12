@@ -1,0 +1,39 @@
+---
+title: "Geo-Pobla-Soc"
+author: "Josseling Quiroz"
+date: "5/11/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r results='hide', warning = FALSE, message=FALSE}
+library(tidyverse)
+library(plotly)
+library(knitr)
+
+```
+# Universidad de Costa Rica
+
+## GF-0613 GEOGRAFÍA, POBLACIÓN Y SOCIEDAD
+#### Profesora: Ph.D. Geóg. Sabrine Acosta Schnell
+
+## Descripción general
+
+TALLER # 1: Manifestaciones espaciales de lo no estrictamente demográfico: la religión, la diversidad, la salud y los nuevos mercados. 
+Revisar práctica 3 y 4 - 
+Lo no estrictamente demográfico: - Manifestaciones espaciales de: 
+
+- la religión como organizadora de territorio 
+
+- la diversidad sexual 
+
+- Nuevos mercados relacionados con la estructura poblacional: matrimonios, lo funerario, ciudades de solteros, ancianeidad , países de muejeres, de alta juventud, etc.
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
