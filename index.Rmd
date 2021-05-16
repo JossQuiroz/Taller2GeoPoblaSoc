@@ -1,6 +1,6 @@
 ---
 title: "Geo-Pobla-Soc"
-author: "Josseling Quiroz"
+author: "Hillary Salmeron - Roger Almendarez - Jose Gamboa - Josseling Quiroz"
 date: "11/7/2020"
 output:
   html_document:
