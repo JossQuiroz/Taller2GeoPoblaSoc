@@ -1,7 +1,7 @@
 ---
 title: "Geo-Pobla-Soc"
 author: "Hillary Salmeron - Roger Almendarez - Jose Gamboa - Josseling Quiroz"
-date: "11/7/2020"
+date: "17/05/2021"
 output:
   html_document:
     theme: readable
@@ -19,7 +19,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r results='hide', warning = FALSE, message=FALSE}
+```{r results='hide', warning = FALSE, message=FALSE, echo=FALSE}
 library(tidyverse)
 library(plotly)
 library(knitr)
@@ -32,7 +32,7 @@ library(knitr)
 
 ## Descripción general
 
-TALLER # 1: Manifestaciones espaciales de lo no estrictamente demográfico: la religión, la diversidad, la salud y los nuevos mercados. 
+TALLER # 2: Manifestaciones espaciales de lo no estrictamente demográfico: la religión, la diversidad, la salud y los nuevos mercados. 
  
 Lo no estrictamente demográfico: - Manifestaciones espaciales de: 
 
@@ -42,8 +42,61 @@ Lo no estrictamente demográfico: - Manifestaciones espaciales de:
 
 - Nuevos mercados relacionados con la estructura poblacional: matrimonios, lo funerario, ciudades de solteros, ancianeidad , países de muejeres, de alta juventud, etc.
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+# *La religión como organizadora de territorio*
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+### Existe una gran diversidad de formas de religiosidad presentes en la sociedad
+
+> La estructuración de la vida colectiva partió, desde un inicio, de la busqueda  de la integración del ser humano con el cosmos, visto este como detentor de muchas respuestas incontrolables para él, en momentos de organización de su propio mundo. (Le Bourlegat, Castilho, 2004)
+
+![Mapa de jerusalen como centro del mundo](https://www.bunam.unam.mx/mat_apoyo/MaestrosAlumnos/mApoyo/04/Unidad_2/img/a03u2t04p10e01.jpg)
+
+# *La diversidad sexual*
+
+# *Nuevos mercados relacionados con la estructura poblacional: matrimonios, lo funerario, ciudades de solteros, ancianeidad , países de muejeres, de alta juventud, etc.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Bibliografía
+
+- Le Bourlegat, C. A., & De Castilho, M. A. (2004). Lo sagrado en el contexto de territorialidad. Polis. Revista Latinoamericana, (8). 
